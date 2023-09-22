@@ -1,11 +1,11 @@
-/**         Fonction
+/*
  
- créer 3 variables
- a égal à jean
- b égal à paul
- result
+créer 3 variables
+a égal à jean
+b égal à paul
+result
  
- */
+*/
 let a="jean";
 let b="Paul";
 let result=checkName(a,b)
