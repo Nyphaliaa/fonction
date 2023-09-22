@@ -6,6 +6,7 @@ b égal à paul
 result
  
 */
+
 let a="jean";
 let b="Paul";
 let result=checkName(a,b)
